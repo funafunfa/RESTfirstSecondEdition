@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{RESTfirst-master/node_modules}" />
+    <file url="file://$PROJECT_DIR$/bower_components/bootstrap" libraries="{RESTfirst-master/bower_components/bootstrap/node_modules}" />
+    <file url="PROJECT" libraries="{RESTfirst-master/bower_components/bootstrap/node_modules, RESTfirst-master/node_modules, bootstrap, jquery-3.2.1.slim, popper}" />
+    <includedPredefinedLibrary name="Node.js Core" />
+    <includedPredefinedLibrary name="WebGL" />
+  </component>
+</project>
